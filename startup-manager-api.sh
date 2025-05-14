@@ -1,0 +1,1 @@
+cd $(pwd)/main/manager-api && java -jar target/xiaozhi-esp32-api.jar --spring.profiles.active=dev
